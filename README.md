@@ -1,112 +1,131 @@
+<!-- ================= HEADER ================= -->
+
 <div align="center">
 
-# ⚡ SAJID AOUF
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,100:556B2F&height=190&section=header&text=YOUR_NAME&fontSize=48&fontColor=E8EDE5&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20Automation&descSize=15&descAlignY=60" width="100%" />
 
-### AI STUDENT • PYTHON DEVELOPER • TECH ENTHUSIAST
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=23\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=650\&lines=Hello%2C+World!+%F0%9F%91%8B;Exploring+Artificial+Intelligence;Building+the+Future+with+Code;Learning.+Building.+Innovating.)
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://python.org)
-[![AI](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge\&logo=probot\&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
-
-<br>
-
-*"Code is my language. AI is my playground. Innovation is my goal."*
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=A3B18A&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Exploring+Artificial+Intelligence;Interested+in+Automation+%26+ML;Building+and+Learning+Every+Day" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-# 👨‍💻 WHO AM I?
+<!-- ================= ABOUT ME ================= -->
 
-I'm **Sajid Aouf**, a Computer Science student specializing in Artificial Intelligence.
+## About Me
 
-I'm passionate about programming, intelligent systems, and exploring how technology can solve real-world problems.
+I'm a Computer Science student at **Pharos University**, interested in building intelligent solutions through technology.
 
-```python
-class Developer:
-
-    name = "Sajid Aouf"
-    education = "Computer Science | AI"
-    primary_language = "Python"
-    secondary_language = "C++"
-
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Deep Learning",
-        "Data Science",
-        "Software Engineering"
-    ]
-
-    mindset = "Never stop learning 🚀"
-```
+- 🎓 Second-year Computer Science student.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- ⚙️ Interested in Automation and intelligent workflows.
+- 💻 Working with Python and C++.
+- 📊 Exploring Data Science and data-driven solutions.
+- 🌱 Always learning, experimenting, and building new things.
 
 ---
 
-# 🧠 TECH ARSENAL
+<!-- ================= TECH STACK ================= -->
 
-### 💻 PROGRAMMING LANGUAGES
+## Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+**Languages**
 
-### 🤖 ARTIFICIAL INTELLIGENCE
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp" />
+</p>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+**Development Tools**
 
-### ⚙️ TOOLS & ENVIRONMENT
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+**Areas of Interest**
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-101827?style=for-the-badge&logo=openai&logoColor=A3B18A" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-101827?style=for-the-badge&logo=scikitlearn&logoColor=A3B18A" />
+  <img src="https://img.shields.io/badge/Automation-101827?style=for-the-badge&logo=gear&logoColor=A3B18A" />
+  <img src="https://img.shields.io/badge/Data%20Science-101827?style=for-the-badge&logo=databricks&logoColor=A3B18A" />
+</p>
 
 ---
 
-# 📊 GITHUB ANALYTICS
+<!-- ================= PROJECTS ================= -->
+
+## Featured Projects
+
+I'm continuously working on improving my programming skills through practical projects.
+
+<!-- Replace these placeholders with your actual projects -->
+
+| Project | Description | Technologies |
+|:---|:---|:---|
+| Project 01 | Add your project description here | Python |
+| Project 02 | Add your project description here | C++ |
+| Project 03 | Add your project description here | Python |
+
+---
+
+<!-- ================= LEARNING ================= -->
+
+## Currently Learning
+
+- Artificial Intelligence fundamentals.
+- Machine Learning concepts and algorithms.
+- Python for Data Science.
+- Automation and API integration.
+- Software development fundamentals.
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+
+## GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=101827&title_color=A3B18A&text_color=E8EDE5&icon_color=A3B18A&rank_icon=github" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=101827&title_color=A3B18A&text_color=E8EDE5" />
 
 </div>
 
 ---
 
-# 🎯 CURRENT MISSION
-
-* 🤖 Deepening my knowledge of Artificial Intelligence.
-* 🧠 Exploring Machine Learning and Deep Learning.
-* 🐍 Improving my Python programming skills.
-* 🔬 Experimenting with PyTorch and TensorFlow.
-* 💡 Building projects and solving programming challenges.
-
----
-
-# 🌐 CONNECT WITH ME
+<!-- ================= STREAK ================= -->
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=A3B18A&fire=A3B18A&currStreakLabel=A3B18A&sideLabels=E8EDE5&dates=9CA3AF" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN)
+</div>
 
-<br>
+---
 
-### ⚡ THINK. CODE. INNOVATE.
+<!-- ================= CONNECT ================= -->
 
-*Building tomorrow, one line of code at a time.*
+## Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-101827?style=for-the-badge&logo=linkedin&logoColor=A3B18A" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-101827?style=for-the-badge&logo=gmail&logoColor=A3B18A" />
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:556B2F,100:101827&height=100&section=footer" width="100%" />
+
+**"Building today. Innovating tomorrow."**
 
 </div>
