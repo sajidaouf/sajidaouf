@@ -1,131 +1,67 @@
-<!-- ================= HEADER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Sajid%20Aouf&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Engneer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,100:556B2F&height=190&section=header&text=YOUR_NAME&fontSize=48&fontColor=E8EDE5&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20Automation&descSize=15&descAlignY=60" width="100%" />
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=A3B18A&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Exploring+Artificial+Intelligence;Interested+in+Automation+%26+ML;Building+and+Learning+Every+Day" alt="Typing SVG" />
-</a>
-
-</div>
-
----
-
-<!-- ================= ABOUT ME ================= -->
-
-## About Me
-
-I'm a Computer Science student at **Pharos University**, interested in building intelligent solutions through technology.
-
-- 🎓 Second-year Computer Science student.
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- ⚙️ Interested in Automation and intelligent workflows.
-- 💻 Working with Python and C++.
-- 📊 Exploring Data Science and data-driven solutions.
-- 🌱 Always learning, experimenting, and building new things.
-
----
-
-<!-- ================= TECH STACK ================= -->
-
-## Tech Stack & Tools
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=sajidaouf">
+    <img src="https://komarev.com/ghpvc/?username=sajidaouf&label=Profile%20views&color=00FFFF&style=flat-square" alt="sajidaouf's profile views" />
+  </a>
 </p>
 
-**Development Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/sajidaouf">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sajidaouf&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="sajidaouf's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=sajidaouf&theme=radical&hide_border=true&cache_seconds=86400" alt="sajidaouf's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sajidaouf&theme=radical&radius=10" alt="sajidaouf's Activity Graph" />
 </p>
 
-**Areas of Interest**
 
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-101827?style=for-the-badge&logo=openai&logoColor=A3B18A" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-101827?style=for-the-badge&logo=scikitlearn&logoColor=A3B18A" />
-  <img src="https://img.shields.io/badge/Automation-101827?style=for-the-badge&logo=gear&logoColor=A3B18A" />
-  <img src="https://img.shields.io/badge/Data%20Science-101827?style=for-the-badge&logo=databricks&logoColor=A3B18A" />
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+
 </p>
 
----
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
 
-<!-- ================= PROJECTS ================= -->
+</p>
 
-## Featured Projects
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
 
-I'm continuously working on improving my programming skills through practical projects.
+</p>
 
-<!-- Replace these placeholders with your actual projects -->
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
 
-| Project | Description | Technologies |
-|:---|:---|:---|
-| Project 01 | Add your project description here | Python |
-| Project 02 | Add your project description here | C++ |
-| Project 03 | Add your project description here | Python |
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/sajidaouf">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajidaouf&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-<!-- ================= LEARNING ================= -->
+## 🔗 Connect with Me
+<p align="center">
+  <a href="mailto:sajid.m.aouf@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Sajid Aouf's Email"/></a>
+</p>
 
-## Currently Learning
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
-- Artificial Intelligence fundamentals.
-- Machine Learning concepts and algorithms.
-- Python for Data Science.
-- Automation and API integration.
-- Software development fundamentals.
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
----
-
-<!-- ================= GITHUB STATS ================= -->
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=101827&title_color=A3B18A&text_color=E8EDE5&icon_color=A3B18A&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=101827&title_color=A3B18A&text_color=E8EDE5" />
-
-</div>
-
----
-
-<!-- ================= STREAK ================= -->
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=A3B18A&fire=A3B18A&currStreakLabel=A3B18A&sideLabels=E8EDE5&dates=9CA3AF" />
-
-</div>
-
----
-
-<!-- ================= CONNECT ================= -->
-
-## Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-101827?style=for-the-badge&logo=linkedin&logoColor=A3B18A" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-101827?style=for-the-badge&logo=gmail&logoColor=A3B18A" />
-</a>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:556B2F,100:101827&height=100&section=footer" width="100%" />
-
-**"Building today. Innovating tomorrow."**
-
-</div>
